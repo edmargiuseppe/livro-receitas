@@ -6,8 +6,6 @@ Olá! Bem vindo ao meu livro de receitas :chicken:
 
 - Pavê
 
-- purê de batatas
-
   A vida extenuante é uma revolta contra o ethos auto-indulgente que só cuida de si 
   mesmo. Exortamos os homens a terem objetivos bons e nobres e a lutarem diariamente por 
   eles, mesmo quando isso for inconveniente. Virtude, dever e serviço sobre satisfação 
